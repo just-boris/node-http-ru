@@ -1,0 +1,14 @@
+{
+  "name": "http-ru",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node demo/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.8.5"
+  }
+}
